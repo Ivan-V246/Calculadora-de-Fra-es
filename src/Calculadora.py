@@ -1,4 +1,4 @@
-from fraction import Fraction
+from Fraction import Fraction
 import os;
 
 def divZero():
