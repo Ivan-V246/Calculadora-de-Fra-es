@@ -45,6 +45,7 @@ Com o Python instalado:
 
 ```bash
   git clone https://github.com/Ivan-V246/Calculadora-de-Fra-es.git
+  cd Calculadora-de-Fra-es
   cd src
   python Calculadora.py
 ```
